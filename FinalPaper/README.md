@@ -4,7 +4,7 @@ Auxiliary Files for Final Paper
 
 - `economic freedom index.ipynb`: Apply the training data to various machine learning models and do the comparison for test data. Construct economic freedom index. 
 
-- `regression for main model.do`: Obtaining empirical results of main model in Stata.
+- `regression for main model.do`: Obtain empirical results of main model in Stata.
 
 ### Data
 
