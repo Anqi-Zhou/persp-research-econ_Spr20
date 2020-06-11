@@ -6,7 +6,7 @@ Auxiliary Files for Final Paper
 
 - `regression for main model.do`: Obtain empirical results of main model in Stata.
 
-### Data
+### Data (All have been organized)
 
 - `main model data.xlsx`: Data for all the input variables in the main model.
 
